@@ -7,7 +7,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?logo=streamlit)](https://streamlit.io)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange)](https://scikit-learn.org)
 
-🇬🇧 **English** | 🇪🇸 **[Español](#español)**
+🇬🇧 **English** | 🇪🇸 **[Español](#-predictor-de-precios-de-alquiler-en-madrid)**
 
 ---
 
@@ -32,6 +32,7 @@ Machine learning application that predicts whether a rental property in Madrid i
 - [Future Improvements](#-future-improvements)
 - [Testing](#-testing)
 - [References](#-references--resources)
+- [About Autor](#-about-the-author)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Español](#español)
@@ -411,7 +412,6 @@ madrid-rental-prediction/
 │
 ├── 📄 README.md                           # This file (you are here!)
 ├── 📄 requirements.txt                    # Python dependencies
-├── 📄 i18n.py                             # Multilingual translations
 ├── 📄 LICENSE                             # MIT License
 │
 ├── 📂 data/
@@ -429,6 +429,7 @@ madrid-rental-prediction/
 │   └── __init__.py                        # Package initialization
 │
 ├── 📂 app/
+│   ├── 📄 i18n.py                        # Multilingual translations
 │   └── streamlit_app.py                   # Web App: Interactive UI with multilingual support
 │
 └── 📂 model/
@@ -757,7 +758,7 @@ Data Science & Machine Learning Portfolio Project - 2026
 - 🔗 **GitHub:** [@ValentinaSBarrera](https://github.com/ValentinaSBarrera)
 - 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/ValentinaSBarrera)
 - 🌐 **Portfolio:** [Your Website]
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** valentina.sbarrera22@gmail.com
 
 ### Skills Demonstrated
 
@@ -779,7 +780,7 @@ Contributions are welcome! Follow these steps:
 ### 1. Fork the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/madrid-rental-prediction.git
+git clone https://github.com/ValentinaSBarrera/madrid-rental-prediction
 cd madrid-rental-prediction
 ```
 
@@ -1033,6 +1034,7 @@ Aplicación de machine learning que predice si una propiedad en alquiler en Madr
 - [Mejoras Futuras](#-mejoras-futuras)
 - [Pruebas](#-pruebas)
 - [Referencias](#-referencias--recursos)
+- [Acerca de la Autora](#-acerca-de-la-autora)
 - [Contribuir](#-contribuir)
 - [Licencia](#-licencia)
 
@@ -1411,7 +1413,6 @@ madrid-rental-prediction/
 │
 ├── 📄 README.md                           # Este archivo (¡estás aquí!)
 ├── 📄 requirements.txt                    # Dependencias de Python
-├── 📄 i18n.py                             # Traducciones multiidioma
 ├── 📄 LICENSE                             # Licencia MIT
 │
 ├── 📂 data/
@@ -1425,10 +1426,10 @@ madrid-rental-prediction/
 ├── 📂 src/
 │   ├── etl.py                             # Pipeline ETL: Extracción-Transformación-Carga
 │   ├── model.py                           # Modelo ML: Entrenamiento & Evaluación
-│   ├── predictor.py                       # Orquestador: Pipeline completo
-│   └── __init__.py                        # Inicialización del paquete
+│   └── predictor.py                       # Orquestador: Pipeline completo
 │
 ├── 📂 app/
+│   ├── 📄 i18n.py                             # Traducciones multiidioma
 │   └── streamlit_app.py                   # Aplicación Web: Interfaz interactiva con soporte multiidioma
 │
 └── 📂 model/
@@ -1757,7 +1758,7 @@ Proyecto de Portfolio de Data Science & Machine Learning - 2026
 - 🔗 **GitHub:** [@ValentinaSBarrera](https://github.com/ValentinaSBarrera)
 - 💼 **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com/in/ValentinaSBarrera)
 - 🌐 **Portfolio:** [Tu Sitio Web]
-- 📧 **Email:** tu.email@example.com
+- 📧 **Email:** valentina.sbarrera22@gmail.com
 
 ### Habilidades Demostradas
 
@@ -1779,7 +1780,7 @@ Proyecto de Portfolio de Data Science & Machine Learning - 2026
 ### 1. Hacer Fork del Repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/madrid-rental-prediction.git
+git clone https://github.com/ValentinaSBarrera/madrid-rental-prediction
 cd madrid-rental-prediction
 ```
 
